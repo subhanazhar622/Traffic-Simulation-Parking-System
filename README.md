@@ -45,38 +45,32 @@ Used to store and search vehicle records efficiently based on license plate numb
 
 ---
 ## 📷 Screenshots
+## 📷 Screenshots
 
-Add screenshots of your program here.
+### Main Menu
+![Main Menu](screenshots/main%20menu.png)
 
-Example:
+### Car Arrival
+![Car Arrival](screenshots/car%20arrival.png)
 
-- Main Menu
-- Car Arrival
-- Parking a Vehicle
-- Vehicle Search
-- Parking Lot Status
+### Parking a Car
+![Parking a Car](screenshots/parking%20a%20car.png)
+
+### Search Vehicle
+![Search Vehicle](screenshots/search%20vehicle.png)
+
+### View Parking Lot
+![View Parking Lot](screenshots/view%20parking%20lot.png)
+
+### Duplicate Plate Number Check
+![Duplicate Plate Number](screenshots/duplicate%20plate%20number.png)
 
 ---
-
 ## ▶️ How to Run
 
 1. Download or clone this repository.
 2. Compile the source code using any C++ compiler.
-
-Example:
-
-```bash
-g++ main.cpp -o parking
-```
-
-3. Run the program.
-
-```bash
-./parking
-```
-
-4. Follow the on-screen menu.
-
+3. Follow the on-screen menu instructions.
 ---
 
 ## 📚 Learning Outcomes
@@ -93,6 +87,7 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**SB**
+**Subhan Azhar**
+Github: @subhanazhar622
 
 University Data Structures Project
